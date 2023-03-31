@@ -57,7 +57,7 @@ I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitpossible&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### My Trophy :
+### :trophy: My Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=hitpossible&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
