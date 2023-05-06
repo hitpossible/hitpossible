@@ -25,7 +25,7 @@ I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: chanachai.hit@gmail.com
+- :mailbox: How to reach me: chanachai.hit@gmail.com
 
 ---
 
