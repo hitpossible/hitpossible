@@ -48,6 +48,9 @@ I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
 </div>
 
 ---
