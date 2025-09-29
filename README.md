@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-- :telescope: I’m working as a Prgrammer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
